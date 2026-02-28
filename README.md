@@ -1,3 +1,7 @@
+# 2026 Mayur Joshi All Rights Reserved
+Anyone can read my code from this repository.
+Users cannot legally clone, fork for reuse, or incorporate this code into their projects.
 
-#This project was made for Hack for Humanity 2026.
-This website is 
+
+# Hack for Humanityb2026 Project
+
